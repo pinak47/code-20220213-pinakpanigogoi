@@ -2,7 +2,7 @@ import unittest
 from src import fitness_calc as fitness
 import utility
 
-# unittest will test all the methods whose name starts with 'test'
+# unittest will test all the methods whose name starts with 'test', standard python library
 
 class SampleTest(unittest.TestCase):
 
